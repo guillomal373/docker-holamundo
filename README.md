@@ -145,4 +145,5 @@ services: //Contenedores que queremos usar
 <a id="docker-compose"></a>
 ## Ejecutar desde el docker compose
 
-- docker compose up
+- docker compose up //levanta tooodo
+- docker compose down // para limpiar contenedores, redes
